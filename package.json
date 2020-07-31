@@ -7,7 +7,7 @@
     "easytimer.js": "^4.0.2",
     "gsap": "^3.0.1",
     "hover.css": "^2.3.2",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.16.0",
     "select2": "^4.0.12"
   },
